@@ -1,4 +1,4 @@
-# Skript für gegen KVM.
+# KVM-Skript.
 clear
 echo "Haben sie den Skript als ROOT ausgeführt?!"
 read -p "Eingabe: " input
